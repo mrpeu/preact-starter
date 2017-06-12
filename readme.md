@@ -1,4 +1,9 @@
-# preact-starter
+# Fork of: preact-starter
+
+remove SASS
+
+
+# preact-start
 
 > Webpack2 boilerplate for building SPA / PWA / offline front-end apps with :atom_symbol: [Preact](https://github.com/developit/preact)
 
@@ -29,7 +34,7 @@ npm start
 ## Features
 
 * Offline Caching (via `serviceWorker`)
-* SASS & Autoprefixer
+* ~~SASS & Autoprefixer~~
 * Asset Versioning (aka "cache-busting")
 * ES2015 (ES6) and ES2016 (ES7) support
 * Webpack Bundle Analysis (see [dashboard](#dashboard))
