@@ -1,4 +1,4 @@
-# Fork of: preact-starter
+# Why fork?
 
 remove SASS
 
